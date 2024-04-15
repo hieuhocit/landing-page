@@ -1,0 +1,24 @@
+:root {
+    --dark-background-color: #1F2937;
+    --main-text-fz: 48px;
+    --main-text-fw: bold;
+    --main-text-color: #F9FAF8;
+    --second-text-fz: 18px;
+    --second-text-color: #E5E7EB;
+    --header-logo-text: 24px;
+    --header-logo-color: #f9faf8;
+    --btn-color: #3882f6;
+    --info-header-text-fz: 36px;
+    --info-header-text-fw: bold;
+    --info-header-text-color: #1f2937;
+    --quote-background: #e5e7eb;
+    --quote-color: #000000;
+    --quote-font-style: italic;
+    --quote-fw: light;
+    --quote-fz: 36px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
